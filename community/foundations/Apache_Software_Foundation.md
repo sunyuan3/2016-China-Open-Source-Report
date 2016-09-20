@@ -44,6 +44,161 @@ Greg Stein：ASF理事，曾担任ASF主席。
 
 Henri Yandell：ASF理事，Commons，Jakarta，Tomcat等项目维护者。
 
+####项目
+HTTP Server： 可以在UNIX，MS-Windows，Macintosh和Netware操作系统下运行的HTTP服务器的项目
 
+Ant： 基于Java语言的构建工具，类似于C语言的Make工具。
 
+AXIS2：Web服务（SOAP, WSDL）的处理器，基于AXIS1.X重新构建。
 
+APR：（也就是：Apache Portable Runtime）C语言实现的便携运行库的管理工具。
+
+Beehive：为了简单构建J2EE应用的对象模型。
+
+Cocoon：一个基于组件技术和XML和Web应用开发框架。
+
+DB：关于数据库管理系统的几个开源项目集合
+
+Derby：一个纯JAVA的数据库管理系统
+
+Drill ：将有助于Hadoop用户实现更快查询海量数据集的目的
+
+Directory：基于JAVA语言的目录服务器，支持LDAP等目录访问协议。
+
+Excalibur：Apache Avalon项目的前身。
+
+Forrest：一个发布系统框架的项目。
+
+Geronimo：J2EE服务器
+
+Gump：整合管理器
+
+Hadoop：并行运算编程工具和分布式文件系统。
+
+Harmony：一个兼容JAVA标准的JAVA语言的开源实现。
+
+HiveMind：一个服务（Services）与配置（configuration）的微内核
+
+iBATIS：一个基于JAVA语言的数据持久化框架
+
+Incubator：为了帮助那些希望获取Apache软件基金会支持的计划进入Apache软件基金会的审核项目
+
+Jackrabbit：内容仓库API标准（Content Repository for Java Technology API，即JSR-170）的一个开源实现项目。
+
+Jakarta： 在ASF中，基于Java语言的一组开源子项目的集合，现在包含的子项目有：BCEL，BSF，Cactus，Commons，ECS，HttpComponents，JCS，JMeter，ORO，Regexp，Slide，Taglibs，Turbine，Velocity
+
+James：JAVA语言实现的邮件新闻服务器
+
+Labs：为基金会成员提供最新变更的思维的计划
+
+Lenya：内容管理系统
+
+Logging： 一个开发可以在C++、Java、Perl、PHP、.NET计算机语言下运行的通用日志工具项目集合。
+
+Lucene： 高性能的，基于Java语言的全文检索项目。
+
+Maven：项目集成构建工具
+
+MyFaces： 一个JavaServer Faces（JSF）的实现框架。
+
+mod_perl：为Apache服务器提供Perl语言整合的项目
+
+POI：提供API以供JAVA程式对Microsoft Office格式档案的读/写。
+
+Portals：与门户（Portal）技术相关的几个项目集合
+
+Santuario：发展XML安全性方面的项目
+
+Shale：在Struts之后，发展起来基于JAVA语言Web应用框架
+
+SpamAssassin：垃圾邮件过滤器
+
+Struts： 一个基于J2EE平台的MVC设计模式的Web应用框架
+
+Subversion: 一个软件版本管理系统。
+
+Tapestry： 另一个J2EE平台的、能产生动态、高性能Web应用的框架。
+
+TCL：为Apache服务器提供Tcl语言整合的项目
+
+Tomcat： 一个运行Java Servlet与JavaServer Pages（JSP）的容器。
+
+Web Services：与Web Services技术相关的项目集合
+
+Xalan：XML转换处理器
+
+Xerces： 一组可以在Java，C++，Perl计算机语言下使用的XML解析器项目。
+
+Apache XML：XML解决方案
+
+XMLBeans：基于JAVA语言XML对象绑定工具
+
+XML Graphics：发展XML与图形进行转换的计划项目
+
+####Apache技术
+HTTP服务器
+
+Apache HTTP服务器项目主要致力于为现代操作系统开发和维护开源的HTTP服务器，其中包括Unix和WindowsNT。这个项目的主要目标是提供一个可以与当前的HTTP标准同步提供安全、高效和可扩展的服务器的HTTP服务。自1996年4月以来，Apache就变成了互联网上最流行的Web服务器。
+
+主要用户群：连续13年，Apache HTTP服务器都是全球Web服务器的领军者，为1.13亿个网站提供服务。
+
+Tomcat
+
+Apache Tomcat是一个可以执行Java Servlet和JavaServer网页技术的开源软件。Apache和Tomcat是相对独立的，用户可以通过Apache访问Tomcat资源，反之亦然，二者可以在同一台服务器上。Apache Tomcat是由全世界各地的最佳开发者合力研发而来的，是一款非常优异的开源软件。
+
+用户群：Tomcat推动了很多不同行业的大型的、关键的Web应用程序的发展，其中包括ETrade、沃尔玛、天气频道以及EMC等。
+
+Lucene
+
+Apache Lucene是一个高性能、全功能的文字搜索引擎图书馆，是由Java语言编写的。Apache　Lucene适用于任何需要全文字搜索的应用程序，特别是跨越平台。一开始，Lucene是由Java语言编写的，目前已经被移植到其他的语言，其中包括Delphi、Perl、C#、C++、Python、Ruby和PHP等。
+
+用户群：苹果在线零售店、CNET、Netflix、维基百科、Yelp、Comcast、LinkedIn、The Smithsonian、多个政府机构(FDA、DOD等)、Technorati、互联网档案馆（例如AOL黄页的上下文搜索等）。
+
+Struts
+
+Apache Struts是一个用于开发Java EE Web应用程序的开源Web应用程序框架。Apache Struts使用和扩展Java Servlet API去鼓励开发者采用模型视图控制器（MVC）构架。
+
+用户群： IRS、波士顿环球报、大赦国际、Sears、Alamo Car Rental、National Car Rental、Travelocity等等。
+
+Geronimo
+
+Apache Geronimo是Apache软件基金会的开放源码J2EE服务器，它集成了众多先进技术和设计理念。这些技术和理念大多源自独立的项目，配置和部署模型也各不相同。Geronimo项目的目标就是产生一个服务器运行时间框架，将最好的开源替代品汇集到一个统一、易用的模型中，去满足开发人员和系统管理员的需求。
+
+用户群：AMD、Chariot Solutions、IBM、Virtuas等。
+
+Ant
+
+Apache Ant是由Apache软件基金会所提供的一个基于Java的开发工具，它是将软件编译、测试、部署等步骤联系在一起加以自动化的一个工具，大多用于Java环境中的软件开发。
+
+用户群：大多数的Java设计都被用于管理大量信息流，例如纽约州就使用Apache Ant去管理美国最大的青年计划，每天可以实时更新超过25万学生的记录。
+
+Cocoon
+
+Apache Cocoon是一个基于Spring框架的围绕分离理念建立的构架，在这种框架下的所有处理都被预先定义好的处理组件线性连接起来，能够将输入和产生的输出按照流水线顺序处理。
+
+用户群：Apache Lenya、Daisy CMS、Hippo CMS、Mindquarry等等，Apache Cocoon通常被作为一个数据抽取、转换、加载工具或者是系统之间传输数据的中转站。
+
+SpamAssassin
+
+SpamAssassin是一个由Apache开发的一个著名的反垃圾引擎，邮件系统完整的集成了SpamAssassin反垃圾引擎。SpamAssassin中包含了各种各样的垃圾邮件监测技术，其中包括基于DNS和checksum的垃圾邮件监测、Bayesian过滤、外部程序、黑名单和在线数据库等。
+
+用户群：SpamAssassin被数以千计的独立开发商和用户所采用，并被作为数个商业产品的主要成分.\
+
+Axis
+
+Apache Axis是一个基于SOAP应用的框架，核心是一个SOAP处理器，用于开发包括客户端，服务器端，SOAP Gateway等各种应用。
+
+用户群：WSO2、MuleSource IBM、Progress Software等。
+
+Logging Service
+
+Apache Logging Services项目主要是为了提供应用程式除错以及监督的日志登录服务。　Apache Logging Services项目的产品包括三个日志登录框架，分别为log4j for Java、log4cxx for C++以及log4net for the Microsoft .NET framework。Apache Logging Services还被应用于日志查看器和分析工具Chainsaw中。
+
+用户群：Apache Logging在Java开发中无处不在。
+
+Common
+
+Commons是一个主要专注于可再用Java组件所有方面的Apache项目。Apache Commons项目由3个部分组成：
+*The Commons Proper—可再用Java组件的贮存处；*The Commons Sandbox—Java组件的开发工作区；*The Commons Dormant—沙盒组件的贮存库。
+
+用户群：亚马逊Web服务、谷歌。
