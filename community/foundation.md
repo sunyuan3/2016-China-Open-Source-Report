@@ -8,10 +8,8 @@
 | Free Software Foundation                                  |  http://www.fsf.org/about/                              	|
 | Linux Foundation                                  | https://www.linuxfoundation.org/about                               	|
 | Linux Professional Institute (LPI)                                  | https://www.lpi.org/                               	|
-| OpenHatch                                  | https://openhatch.org/                               	|
-| OpenSourceMatters                                  | http://opensourcematters.org/                               	|
 | Open Source Geospatial Foundation                                  | http://www.osgeo.org/content/foundation/about.html                               	|
-| Open Source For America (OSFA)                                  | http://opensourceforamerica.org/about-osfa/our-mission/                               	|
-| Open Source Initiative                                  | http://www.opensource.org/                               	|
-| OpenCourseWare Consortium                                  | http://www.ocwconsortium.org/about-ocw/                               	|
-| Oregon State University (OSU) Open Source Lab                                  | http://osuosl.org/about                            | 
+| Eclipse Foundation                                  | https://eclipse.org/org/                               	|
+| Cloud Foundry Foundation                                  | https://www.cloudfoundry.org/foundation/                               	|
+| OpenStack Foundation                                  | https://www.openstack.org/foundation/                               	|
+| Open Source Initiative                                  | http://www.opensource.org/                            | 
