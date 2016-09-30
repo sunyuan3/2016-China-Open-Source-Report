@@ -13,13 +13,13 @@
 
 社群的志愿者相信，建立一个独立的基金会能使自由办公软件得到发展，因为它能避免代码的开发和项目的发展受到Oracle公司商业利益的限制。
 
-OPPENoffice原是Sun Microsystems开发的自由办公软件，由于Oracle收购Sun Microsystems后得到、商标转归Oracle公司所有，因此文档基金会将其自由软件名称更改为“LibreOffice”。Oracle被邀请成为文档基金会的成员，并请求捐赠 商标以及openoffice 社群其它财产给基金会。2010年10月6日，在Oracle对文档基金会创立的唯一正式回应中，Oracle表示目前没有计划去支持基金会，或转移社群财产例如openoffice商标给基金会。
+OPENoffice原是Sun Microsystems开发的自由办公软件，由于Oracle收购Sun Microsystems后得到、商标转归Oracle公司所有，因此文档基金会将其自由软件名称更改为“LibreOffice”。Oracle被邀请成为文档基金会的成员，并请求捐赠 商标以及openoffice 社群其它财产给基金会。2010年10月6日，在Oracle对文档基金会创立的唯一正式回应中，Oracle表示目前没有计划去支持基金会，或转移社群财产例如openoffice商标给基金会。
 
 作为openoffice的分支，由Red Hat开发的增强版本以及Go-oo 团队，将被立即有效地并入LibreOffice。
 
 文档基金会在2010年9月28日发布了一个LibreOffice测试版，LibreOffice在一个星期内被下载了超过80000次。
 
-2010年10月14日，Oracle认为LibreOffice与openoffice发者离开openoffice并加入文档基金会。
+2010年10月14日，LibreOffice与openoffice加入文档基金会。
 
 为进一步拓展自由软件生态系统，以及保护自由软件生态系统免受来自相关软件专利的风险，文档基金会在2010年12月20日加入了Open Invention Network (OIN) 。为更好地支持开放文档格式(ODF)，文档基金会于2011年1月12日加入了OpenDoc协会。
 
@@ -47,4 +47,4 @@ OPPENoffice原是Sun Microsystems开发的自由办公软件，由于Oracle收�
 ####项目
 文档基金会的目标是使LibreOffice成为最方便的办公软件。而LibreOffice是一款可运行在Windows、Mac OS X及Linux系统上的，包含LibreOffice Writer，LibreOffice Calc，LibreOffice Impress，LibreOffice Draw，LibreOffice Math和LibreOffice Base六大组件的自由办公软件。
 
-自文档基金会成立后，经过将近4个月的努力，在2011年1月25日，文档基金会发布LibreOffice 3.3，这是由社群开发的自由办公套件的第一个稳定版本。LibreOffice 3.3 带来许多独有的新功能，并提供Oopenoffice3.3 开发的所有新功能。
+自文档基金会成立后，经过将近4个月的努力，在2011年1月25日，文档基金会发布LibreOffice 3.3，这是由社群开发的自由办公套件的第一个稳定版本。LibreOffice 3.3 带来许多独有的新功能，并提供Openoffice3.3 开发的所有新功能。
