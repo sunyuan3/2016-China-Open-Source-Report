@@ -42,8 +42,6 @@ GNU通用公共许可证是自由软件工程中最普及的许可证。目前�
 
 自由软件基金会每年颁发两部奖励：自由软件进步大奖和社会福利自由软件奖励（Free Software Award for Projects of Social Benefit）。
 
-法律顾问伊本·莫格林
-
 ####组织结构
 成员
 
